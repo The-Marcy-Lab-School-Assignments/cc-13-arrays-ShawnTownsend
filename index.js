@@ -16,3 +16,4 @@ function averageInArray(array) {
     }
     return average / array.length;
 }
+console.log(averageInArray([120, 88, 12, 4]));  //output: 56
